@@ -1,4 +1,4 @@
-# 👋 Hi! Im João Nishikawa:
+# 👋 Hi! Im Joao Nishikawa:
 🔭 I’m currently studying Systems Development on SENAI - Suiço Brasileiro<br>👯 I’m looking to collaborate on anything that increases my knowledge<br>🌱 I’m currently learning: Python, HTML5, CSS and Javascript<br>🤝 I want to learn: Java, Ruby, React, Lua and a lot more...<br>💬 Portuguese & English<br>⚡ Brazil - SP
 
 
